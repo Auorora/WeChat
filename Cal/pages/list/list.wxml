@@ -1,0 +1,5 @@
+<view class="content">
+    <view class="item">1 + 2 = 3</view>
+    <view class="item">1 + 2 = 3</view>
+    <view class="item">1 + 2 = 3</view>
+</view>
